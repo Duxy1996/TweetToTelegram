@@ -1,0 +1,1 @@
+worker: python ttot_bot.py
