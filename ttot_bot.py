@@ -91,7 +91,7 @@ def my_tweets(bot,update):
     iterator_two = iterator_two +1
 
 def main():
-    updater = Updater('ACCESSKEYFORTELEGRAM') #Botfather te la dara
+    updater = Updater('ACCESS_KEY_FOR_TELEGRAM') #Botfather te la dara
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
 
